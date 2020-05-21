@@ -7,18 +7,23 @@
   box-sizing: border-box;
 }
 
+.wrapper > div {
+  background-color: pink;
+}
+
 /* Classe paragrafo interno alle Colonne */
 .paragraph {
-  background-color: pink;
+  /* background-color: pink; */
   border: solid 1px black;
   height: 250px;
-  width: 100%;
+  max-width: 100%;
   position: relative;
 }
 
 /* Classe paragrafo annidato */
 .nested {
   background-color: #ff777e;
+  margin: 2px;
 }
 
 /* Placement del testo centralmente al paragrafo */

@@ -1,0 +1,13 @@
+/* 12Bool Custom CSS */
+
+/* Clean-up margin-padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: lightgray;
+  height: 100px;
+}
