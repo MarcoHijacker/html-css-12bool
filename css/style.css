@@ -24,6 +24,7 @@
 .nested {
   background-color: #ff777e;
   margin: 2px;
+  border-color: white;
 }
 
 /* Placement del testo centralmente al paragrafo */
